@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">👋 Hi, I'm Mohammad Tasib</h1>
 <h3 align="center">💻 Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power. Client satisfaction is my first priority. 🔗 I have a personal website at <a href='https://tasib.netlify.app' target="_blank">tasib.netlify.app</a> where all my social networks are located! You can reach me anywhere over there!</h3>
 
@@ -34,3 +35,4 @@
 
 ## 📧 For Business Inquiries 
 ✅  ► mohammadtasib3@gmail.com
+<div>
