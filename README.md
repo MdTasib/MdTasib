@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mohammad Tasib</h1>
-<h3 align="center">💻 Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power. Client satisfaction is my first priority. 🔗 I have a personal website at [https://tasib.netlify.app](https://tasib.netlify.app) where all my social networks are located! You can reach me anywhere over there!</h3>
+<h3 align="center">💻 Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power. Client satisfaction is my first priority. 🔗 I have a personal website at <a href='https://tasib.netlify.app' target="_blank">tasib.netlify.app</a> where all my social networks are located! You can reach me anywhere over there!</h3>
 
 ## ☕ Connect with me!
 [![Linkedin: mohammadtasib](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-tasib-4341b71b4/)](https://www.linkedin.com/in/mohammad-tasib-4341b71b4/)
@@ -28,3 +28,4 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianavile&show_icons=true&theme=default)
